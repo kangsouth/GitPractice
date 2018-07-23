@@ -1,4 +1,4 @@
 # GitPractice
 All die
 Second line
-33333
+Solve conflict
