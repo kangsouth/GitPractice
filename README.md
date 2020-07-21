@@ -2,4 +2,4 @@
 All die
 Second line
 Solve conflict
-Second line
+branch:master
